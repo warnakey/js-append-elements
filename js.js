@@ -24,4 +24,4 @@ myHeading.appendChild(mySpan);
 
 // insert the h1 tag with span inside of it into the BODY of any HTML document where this code is called
 document.body.appendChild(myHeading);
-console.log('injected h1 and tag elements to page');
+console.log('injected h1 tag, span tag and element attributes to the HTML page');
