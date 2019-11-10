@@ -1,2 +1,2 @@
 # js-append-elements
-JavaScript example that will append DOM elements, class and IDs into an HTML file
+JavaScript example that will append DOM elements, classes and IDs into an HTML file
